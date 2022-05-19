@@ -9,11 +9,10 @@ h1{display: none;}
 header>img{width: 23rem;}
 header>img{max-width: 100%;}
 header{padding: .5rem;}
-header{border: rgb(rgb(255, 138, 226), rgb(239, 179, 232), rgb(234, 170, 226));}
 nav>a{border: #fff;}
 nav>a{color: rgb(15,15,45);}
 nav>a{text-decoration: none;}
-nav>{padding: 2rem 4rem;}
+nav{padding: 2rem 4rem;}
 nav>a{display:inline-flex ;}
 nav>a{margin: 1rem;}
 nav>a:hover{background-color: rgb(241, 171, 221);}
